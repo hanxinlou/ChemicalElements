@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+} 
+
+.element-top{
+    width: 80rem;
+    height: 25rem;
+    margin: 5rem 8rem 3rem 8rem;
+    display: flex;
+    justify-content: center;
+}
+
+.element-bottom{
+    width: 80rem;
+    height: 25rem;
+    margin: 3rem 8rem 3rem 7.5rem;
+}
+.col{
+    width: 4rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 0rem 0.2rem;
+}
+
+.element{
+    width: 4rem;
+    height: 4rem; 
+    font-weight: bolder;
+    line-height: 3.5rem;
+    text-align: center;
+    margin-top: 0.2rem;
+}
+
+.col-element{
+    margin-top: 0.2rem;
+}
+
+.line{
+    width: 100%;
+    height: 4rem;
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.line-element{
+    margin: 0rem 0.2rem;
+
+}
+
+.base-color{
+    background: rgb(0, 33, 63);
+    color: rgb(154, 206, 255);
+    border: 4px solid rgb(154, 206, 255);
+}
+
+.color-1{
+    background: rgb(63, 1, 7);
+    color: rgb(246, 114, 128);
+    border: 4px solid rgb(246, 114, 128);
+}
+
+.color-2{
+    background: rgb(65, 25, 0);
+    color: rgb(235, 130, 66);
+    border: 4px solid rgb(235, 130, 66);
+}
+
+.color-3{
+    background: rgb(66, 46, 0);
+    color: rgb(255, 211, 105);
+    border: 4px solid rgb(255, 211, 105);
+}
+
+.color-4{
+    background: rgb(0, 59, 36);
+    color: rgb(66, 230, 164);
+    border: 4px solid rgb(66, 230, 164);
+}
+
+.color-5{
+    background: rgb(29, 0, 43);
+    color: rgb(162, 120, 181);
+    border: 4px solid rgb(162, 120, 181);
+}
+
+.color-6{
+    background: rgb(187, 187, 187);
+    color: rgb(57, 62, 70);
+    border: 4px solid rgb(57, 62, 70);
+}
+
+.color-7{
+    background: rgb(49, 0, 33);
+    color: rgb(246, 195, 229);
+    border: 4px solid rgb(246, 195, 229);
+}
+
+.color-8{
+    background: rgb(51, 15, 0);
+    color: rgb(255, 185, 154);
+    border: 4px solid rgb(255, 185, 154);
+}
+
+.color-9{
+    background: rgb(59, 18, 0);
+    color: rgb(250, 227, 217);
+    border: 4px solid rgb(250, 227, 217);
+}
+
+.fontsize-1{
+    font-size: 30px ;
+}
+
+.fontsize-2{
+    font-size: 27px ;
+}
